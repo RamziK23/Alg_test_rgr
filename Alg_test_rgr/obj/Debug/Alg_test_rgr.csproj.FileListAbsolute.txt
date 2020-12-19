@@ -1,0 +1,10 @@
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\obj\Debug\Alg_test_rgr.csprojAssemblyReference.cache
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\obj\Debug\Alg_test_rgr.Form1.resources
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\obj\Debug\Alg_test_rgr.Properties.Resources.resources
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\obj\Debug\Alg_test_rgr.csproj.GenerateResource.cache
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\obj\Debug\Alg_test_rgr.csproj.CoreCompileInputs.cache
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\bin\Debug\Alg_test_rgr.exe.config
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\bin\Debug\Alg_test_rgr.exe
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\bin\Debug\Alg_test_rgr.pdb
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\obj\Debug\Alg_test_rgr.exe
+C:\Users\ramze\source\repos\Alg_test_rgr\Alg_test_rgr\obj\Debug\Alg_test_rgr.pdb
